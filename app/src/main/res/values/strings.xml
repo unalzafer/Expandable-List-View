@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+    <string name="lorem_ipsum"><![CDATA[<string name=\"lorem_ipsum\">         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin         \\n\\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin     </string>]]></string>
+</resources>
